@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> HAPPY ENDING </h1>
+   <h1> HAPPY ENDING SEASON 2</h1>
 
   
 </form>
